@@ -5,7 +5,7 @@ const operator = prompt('Enter the operator (+, -, *, /, %): ')
 const number1 = Number(prompt('Enter the first number: '))
 const number2 = Number(prompt('Enter the second number: '))
 
-switch(operator) {
+switch (operator) {
     case '+': {
         console.log(result = number1 + number2)
         break
@@ -13,7 +13,7 @@ switch(operator) {
     case '-': {
         console.log(result = number1 - number2)
         break
-    }    
+    }
     case '*': {
         console.log(result = number1 * number2)
         break
@@ -30,3 +30,5 @@ switch(operator) {
         console.log('Invalid operator!')
     }
 }
+
+// Calculator Homework - Trajce Vasilev
