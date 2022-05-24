@@ -58,4 +58,4 @@ class Product {
   Breakfast.removeProduct('banana')
   
   const totalPrice = Breakfast.getTotalPrice()
-  console.log(Breakfast.products, totalPrice) //a
+  console.log(Breakfast.products, totalPrice)
