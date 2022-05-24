@@ -25,6 +25,6 @@ function sendRequest () {
   
   
   function handleData (data) {
-    // create html elements here ..
+    // create html elements here
   
   }
